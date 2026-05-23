@@ -15,3 +15,5 @@ Through this project, I learned the difference between writing isolated OOP exer
 
 Current status:
 Learning project / work in progress.
+
+Documentation file link: https://drive.google.com/file/d/1M-3CUywd3bYWz8qHDKiPXQPc504Azto4/view?usp=sharing
